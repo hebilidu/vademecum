@@ -1,6 +1,6 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230328 BY : LDUONG
+### MODIFIED ON: 230330 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
 ---
 #### DATE  : 230327
@@ -12,3 +12,7 @@ Note : alternative complètement gratuite à midjourney - bluewillow.ai - trouv�
 #### DATE  : 230328
 Recherche d'images pertinentes sur Lexica
 ---
+#### DATE  : 230330
+#### OBJET : Local installation of ChatGPT
+#### OUTILS: LLaMA , Alpaca
+#### SOURCE: https://www.youtube.com/watch?v=PyZPyqQqkLE
