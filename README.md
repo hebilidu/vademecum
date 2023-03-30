@@ -7,12 +7,15 @@
 #### OBJET : Creation d'un avatar en utilisant IA
 #### OUTILS: lexica.art , midjourney.com , discord.com
 #### SOURCE: www.youtube.com/watch?v=36NSaD-e7T4
-Note : alternative complètement gratuite à midjourney - bluewillow.ai - trouvée sur www.youtube.com/watch?v=fMmWZNk5ytw
+##### Note : alternative complètement gratuite à midjourney - bluewillow.ai - trouvée sur www.youtube.com/watch?v=fMmWZNk5ytw
 
 #### DATE  : 230328
-Recherche d'images pertinentes sur Lexica
+##### Recherche d'images pertinentes sur Lexica
 ---
 #### DATE  : 230330
 #### OBJET : Local installation of ChatGPT
 #### OUTILS: LLaMA , Alpaca
 #### SOURCE: https://www.youtube.com/watch?v=PyZPyqQqkLE
+
+##### #1. Install NodeJS :
+##### #https://nodejs.org/en/download
