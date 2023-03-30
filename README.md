@@ -14,8 +14,10 @@
 ---
 #### DATE  : 230330
 #### OBJET : Local installation of ChatGPT
-#### OUTILS: LLaMA , Alpaca
-#### SOURCE: https://www.youtube.com/watch?v=PyZPyqQqkLE
+#### OUTILS: (LLaMA , Alpaca) 
+#### SOURCE: https://www.youtube.com/watch?v=DDfUoQWnrfM (https://www.youtube.com/watch?v=PyZPyqQqkLE)
 
-##### #1. Install NodeJS :
-##### #https://nodejs.org/en/download
+##### # 1. Install NodeJS :
+##### # https://nodejs.org/en/download
+##### # 2. Clone gpt4all
+##### # git clone https://github.com/nomic-ai/gpt4all
