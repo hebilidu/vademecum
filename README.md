@@ -14,8 +14,10 @@
 ---
 #### DATE  : 230330
 #### OBJET : Local installation of ChatGPT
-#### OUTILS: (LLaMA , Alpaca) 
-#### SOURCE: https://www.youtube.com/watch?v=DDfUoQWnrfM (https://www.youtube.com/watch?v=PyZPyqQqkLE)
+#### OUTILS: (LLaMA https://github.com/ggerganov/llama.cpp ,
+              LLaMa model https://github.com/shawwn/llama-dl ,
+              Alpaca https://github.com/shawwn/llama-dlAlpaca) 
+#### SOURCE: https://www.youtube.com/watch?v=DDfUoQWnrfM (https://www.youtube.com/watch?v=PyZPyqQqkLE) (https://www.youtube.com/watch?v=OLg2BKhwaSc)
 
 ##### # 1. Install NodeJS :
 ##### # https://nodejs.org/en/download
