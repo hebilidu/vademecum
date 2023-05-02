@@ -1,6 +1,6 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230330 BY : LDUONG
+### MODIFIED ON: 230502 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
 ---
 #### DATE  : 230327
