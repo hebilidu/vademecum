@@ -25,10 +25,12 @@
 ##### # git clone https://github.com/nomic-ai/gpt4all
 ##### Works ! But answers are far from precise or accurate.
 ---
-#### DATE  : 230430
+#### DATE  : 230430 - 230502
 Work on NAS
 1. Checking the SSL Certificate for hebiq.myqnapcloud.com
 2. Add Let's Encrypt SSL Certificate for hebir.mqnapcloud.com
 3. Re-instating Barbie
 4. Problem with accessing Lyautey Livebox => Cannot tune ports accesses
+Work on Barbie
+5. Install APACHE
 ---
