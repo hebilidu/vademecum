@@ -1,6 +1,6 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230502 BY : LDUONG
+### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
 ---
 #### DATE  : 230327
@@ -25,12 +25,16 @@
 ##### # git clone https://github.com/nomic-ai/gpt4all
 ##### Works ! But answers are far from precise or accurate.
 ---
-#### DATE  : 230430 - 230502
+#### DATE  : 230430 
 Work on NAS
 1. Checking the SSL Certificate for hebiq.myqnapcloud.com
 2. Add Let's Encrypt SSL Certificate for hebir.mqnapcloud.com
 3. Re-instating Barbie
 4. Problem with accessing Lyautey Livebox => Cannot tune ports accesses
+#### DATE  : 230502
 Work on Barbie
 5. Install APACHE
+#### DATE  : 230503
+6. Ajout d'enregistrement SPF et TXT(DKIM) aux domaines IONOS (lien-duong.eu/fr/com et abrell-duong.com)
+
 ---
