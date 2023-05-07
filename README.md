@@ -38,4 +38,4 @@ Work on Barbie
 6. Ajout d'enregistrement SPF et TXT(DKIM) aux domaines IONOS (lien-duong.eu/fr/com et abrell-duong.com)
 ---
 #### DATE  : 230507
-Create LINUX LAMP Virtual Machine on hebiq
+Re-vitalize LINUX LAMP Virtual Machine on hebiq
