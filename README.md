@@ -1,7 +1,14 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
+### MODIFIED ON: 230809 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
+---
+#### DATE  : 230809
+#### OBJET : Re-boot of rsp03
+#### OUTILS: 
+#### SOURCE: 
+##### Note : Upgrade from Ubuntu 20.02 LTS (Focal Fossa) to 22.02 LTS (Jammy Jellyfish)
 ---
 #### DATE  : 230327
 #### OBJET : Creation d'un avatar en utilisant IA
