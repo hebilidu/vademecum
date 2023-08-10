@@ -4,6 +4,12 @@
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
 ---
+#### DATE  : 230810
+#### OBJET : Install Linux/Apache/PostgreSQL/Python stack
+#### OUTILS: 
+#### SOURCE: 
+##### Note : Upgrade from Ubuntu 20.02 LTS (Focal Fossa) to 22.02 LTS (Jammy Jellyfish)
+---
 #### DATE  : 230809
 #### OBJET : Re-boot of rsp03
 #### OUTILS: 
