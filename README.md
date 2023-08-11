@@ -1,11 +1,17 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230809 BY : LDUONG
+### MODIFIED ON: 230811 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
 ---
+#### DATE  : 230811
+#### OBJET : rsp03: Check status Apache Python Django
+#### OUTILS: 
+#### SOURCE: 
+##### Note : Upgrade from Ubuntu 20.02 LTS (Focal Fossa) to 22.02 LTS (Jammy Jellyfish)
+---
 #### DATE  : 230810
-#### OBJET : Install Linux/Apache/PostgreSQL/Python stack
+#### OBJET : rsp03: Install Linux/Apache/PostgreSQL/Python stack
 #### OUTILS: 
 #### SOURCE: 
 ##### Note : Upgrade from Ubuntu 20.02 LTS (Focal Fossa) to 22.02 LTS (Jammy Jellyfish)
