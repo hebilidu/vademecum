@@ -1,11 +1,17 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230811 BY : LDUONG
+### MODIFIED ON: 230815 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
 ---
+#### DATE  : 230815
+#### OBJET : rsp03: Create test Django app
+#### OUTILS: 
+#### SOURCE: https://www.w3schools.com/django/index.php
+##### Note : 
+---
 #### DATE  : 230814
-#### OBJET : hebilidu3 - Recovery after coffee spill
+#### OBJET : hebilidu3: Recovery after coffee spill
 #### OUTILS: 
 #### SOURCE: 
 ##### Note : 
