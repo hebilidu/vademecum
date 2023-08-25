@@ -1,10 +1,10 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230824 BY : LDUONG
+### MODIFIED ON: 230825 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
 ---
-#### DATE  : 230815-24
+#### DATE  : 230815-25
 #### OBJET : rsp03: Create test Django app
 #### OUTILS: 
 #### SOURCE: https://www.w3schools.com/django/index.php
