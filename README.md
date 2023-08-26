@@ -1,14 +1,14 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230825 BY : LDUONG
+### MODIFIED ON: 230826 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
 ---
-#### DATE  : 230815-25
+#### DATE  : 230815-26
 #### OBJET : rsp03: Create test Django app
 #### OUTILS: 
 #### SOURCE: https://www.w3schools.com/django/index.php
-##### Note : Difficulty with static files (solved)
+##### Note : Difficulty with static files (solved) - with Apache2 access rights over site 
 ---
 #### DATE  : 230814
 #### OBJET : hebilidu3: Recovery after coffee spill
