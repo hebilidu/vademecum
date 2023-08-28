@@ -1,8 +1,14 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230826 BY : LDUONG
+### MODIFIED ON: 230828 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
+---
+#### DATE  : 230828
+#### OBJET : barbie: Set-up Django production environment
+#### OUTILS: 
+#### SOURCE: 
+##### Note : Cannot access Livebox remotely 
 ---
 #### DATE  : 230815-26
 #### OBJET : rsp03: Create test Django app
