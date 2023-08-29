@@ -1,10 +1,10 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230828 BY : LDUONG
+### MODIFIED ON: 230829 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
 ---
-#### DATE  : 230828
+#### DATE  : 230828-29
 #### OBJET : barbie: Set-up Django production environment
 #### OUTILS: 
 #### SOURCE: 
