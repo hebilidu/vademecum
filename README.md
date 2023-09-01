@@ -1,8 +1,14 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230831 BY : LDUONG
+### MODIFIED ON: 230901 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
+---
+#### DATE  : 230901
+#### OBJET : Python API Development course (part 1)
+#### OUTILS: 
+#### SOURCE: https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1751s
+##### Note : 
 ---
 #### DATE  : 230828-31
 #### OBJET : barbie: Set-up Django production environment
