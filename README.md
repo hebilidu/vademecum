@@ -9,6 +9,12 @@
 #### OUTILS: 
 #### SOURCE: https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1751s
 ##### Note : 
+1. Create project fastapi on hebilidu3 (ASUS TUF F17)
+2. Check installed Python versions on laptop : 3.9.4 32-bit / 3.10.0 64-bit / 3.11.2 64-bit
+3. Install Fast API and simple testing
+   SOURCE: https://fastapi.tiangolo.com/
+4. Install Postman Desktop (aid to create http requests)
+   SOURCE: www:postman.com
 ---
 #### DATE  : 230828-31
 #### OBJET : barbie: Set-up Django production environment
