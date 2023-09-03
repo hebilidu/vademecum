@@ -1,10 +1,10 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230901 BY : LDUONG
+### MODIFIED ON: 230903 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
 ---
-#### DATE  : 230901
+#### DATE  : 230901-03
 #### OBJET : Python API Development course (part 1)
 #### OUTILS: 
 #### SOURCE: https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1751s
@@ -15,6 +15,8 @@
    SOURCE: https://fastapi.tiangolo.com/
 4. Install Postman Desktop (aid to create http requests)
    SOURCE: www:postman.com
+5. Small break : Write API with Flask in 12 minutes
+   SOURCE: https://www.youtube.com/watch?v=zsYIw6RXjfM
 ---
 #### DATE  : 230828-31
 #### OBJET : barbie: Set-up Django production environment
