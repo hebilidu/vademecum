@@ -1,10 +1,10 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230911 BY : LDUONG
+### MODIFIED ON: 230912 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
 ---
-#### DATE  : 230901-11
+#### DATE  : 230901-12
 #### OBJET : Python API Development course (part 1)
 #### OUTILS: 
 #### SOURCE: https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1751s
