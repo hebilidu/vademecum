@@ -1,10 +1,10 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230912 BY : LDUONG
+### MODIFIED ON: 230914 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
 ---
-#### DATE  : 230901-12
+#### DATE  : 230901-14
 #### OBJET : Python API Development course (part 1)
 #### OUTILS: 
 #### SOURCE: https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1751s
@@ -17,6 +17,8 @@
    SOURCE: www:postman.com
 5. Small break : Write API with Flask in 12 minutes
    SOURCE: https://www.youtube.com/watch?v=zsYIw6RXjfM
+6. Install PostgreSQL on hebilidu3 (incl.PGAdmin4)
+7. Install psycopg2 in fastapi venv
 ---
 #### DATE  : 230828-31
 #### OBJET : barbie: Set-up Django production environment
