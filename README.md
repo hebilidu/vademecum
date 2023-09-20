@@ -8,7 +8,8 @@
 #### OBJET : Set up new Ubuntu 22.04.3 LNPP server (VM inayat on hebiq)
 #### OUTILS: 
 #### SOURCE: Based on rsp03 set-up
-##### Note : LNPP Linux Nginx PostreSQL Python
+#### SOURCE: https://sleeksoft.in/deploy-django-website-in-ubuntu-server-using-nginx-gunicorn-and-wsgi-with-postgres-db/
+##### Note : LNPP = Linux Nginx PostreSQL Python
 ---
 #### DATE  : 230901-18
 #### OBJET : Python API Development course (part 1)
