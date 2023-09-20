@@ -1,8 +1,14 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
-### MODIFIED ON: 230918 BY : LDUONG
+### MODIFIED ON: 230920 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
+---
+#### DATE  : 230919-20
+#### OBJET : Set up new Ubuntu 22.04.3 LNPP server (VM inayat on hebiq)
+#### OUTILS: 
+#### SOURCE: Based on rsp03 set-up
+##### Note : LNPP Linux Nginx PostreSQL Python
 ---
 #### DATE  : 230901-18
 #### OBJET : Python API Development course (part 1)
