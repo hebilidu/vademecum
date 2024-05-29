@@ -1,8 +1,19 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
+### MODIFIED ON: 240529 BY : LDUONG
 ### MODIFIED ON: 230920 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
+---
+#### DATE  : 240529
+#### OBJET : Django & React Web App Tutorial
+#### OUTILS: 
+#### SOURCE: On hebilidu3 (ASUS TUF GAMING F17)
+#### SOURCE: https://www.youtube.com/watch?v=c-QsfbznSXI
+##### Note : 
+1. De-install all previously existing versions of Python
+2. Install Python 3.12.3 (PIP 24.0 comes with it)
+3. Follow tutorial
 ---
 #### DATE  : 230919-20
 #### OBJET : Set up new Ubuntu 22.04.3 LNPP server (VM inayat on hebiq)
