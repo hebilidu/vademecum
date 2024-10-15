@@ -1,10 +1,19 @@
 # vademecum
 ## Trials, utilities, tricks, explorations
+### MODIFIED ON: 241015 BY : LDUONG
 ### MODIFIED ON: 241009 BY : LDUONG
 ### MODIFIED ON: 240529 BY : LDUONG
 ### MODIFIED ON: 230920 BY : LDUONG
 ### MODIFIED ON: 230503 BY : LDUONG
 ### CREATED ON : 230327 BY : LDUONG
+---
+#### DATE  : 241010 241015
+#### OBJET : Django all-in-one tutorial
+#### OUTILS: 
+#### SOURCE: On hebilidu3 (ASUS TUF GAMING F17)
+#### SOURCE: https://www.youtube.com/watch?v=Rp5vd34d-z4
+##### Note : 
+1. Install VS Code
 ---
 #### DATE  : 241009
 #### OBJET : Re-install dev environment from scratch
